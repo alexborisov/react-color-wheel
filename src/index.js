@@ -1,3 +1,3 @@
-import ReactColorWheel from './components/ReactColorWheel';
+import ReactColorWheel from './ReactColorWheel';
 
 export default ReactColorWheel;
