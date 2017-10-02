@@ -1,0 +1,26 @@
+{
+  "name": "react-color-wheel",
+  "version": "0.0.1",
+  "description": "Color Picker Component for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyoko/react-color-wheel.git"
+  },
+  "author": "Niyoko Yuliawan <niyoko@yuliawan.id>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niyoko/react-color-wheel/issues"
+  },
+  "homepage": "https://github.com/niyoko/react-color-wheel#readme",
+  "peerDependencies": {
+    "react": "*"
+  },
+  "dependencies": {
+    "chroma-js": "^1.3.4",
+    "react-dnd": "^2.5.3"
+  }
+}
