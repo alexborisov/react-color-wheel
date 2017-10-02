@@ -1,7 +1,7 @@
 import React from 'react';
 import { DragSource } from 'react-dnd'
 
-import previewSrc from '../utils/emptyImage'
+import previewSrc from './utils/emptyImage'
 
 class SaturationValueDragSource extends React.PureComponent {
   componentDidMount(){
